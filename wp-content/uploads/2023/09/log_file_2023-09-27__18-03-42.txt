@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://www.imanebentaleb.tech
+Data file = /home/imaneben/domains/imanebentaleb.tech/public_html/wp-content/uploads/2023/09/demo-content-import-file_2023-09-27__18-03-42.xml
+Widget file = /home/imaneben/domains/imanebentaleb.tech/public_html/wp-content/uploads/2023/09/demo-widgets-import-file_2023-09-27__18-03-42.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Text - Follow us - Imported
+
+Front Page Sidebar : 
+
+Search Availability - No Title - Imported
+
+
+
+---ocdi/after_import---
+

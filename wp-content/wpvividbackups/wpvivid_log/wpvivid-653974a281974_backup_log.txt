@@ -1,0 +1,113 @@
+Log created: 2023-10-25 20:03:46
+Type: backup
+[2023-10-25 20:03:47][notice]Start backing up.
+[2023-10-25 20:03:47][notice]server info fcgi:Off max execution time: 300 wp version:6.3.2 php version:7.4.32 db version:8.0.30 php ini:safe_mode: memory_limit:256M memory_get_usage:84.85 MB memory_get_peak_usage:85.16 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-10-25 20:03:47][notice]Prepare to backup backup_db files.
+[2023-10-25 20:03:47][notice]Start exporting database.
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_wpmailsmtp_tasks_meta
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_wpmailsmtp_debug_events
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_wpforms_tasks_meta
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_mphb_sync_urls
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_mphb_sync_queue
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_mphb_customers_meta
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_term_relationships
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_actionscheduler_claims
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_mphb_sync_logs
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_mphb_sync_stats
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_links
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_e_events
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_actionscheduler_groups
+[2023-10-25 20:03:47][notice]Preparing to dump table wpx0_usermeta
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_mphb_customers
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_commentmeta
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_actionscheduler_logs
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_mphb_api_keys
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_term_taxonomy
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_termmeta
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_terms
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_wpforms_payment_meta
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_users
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_aioseo_notifications
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_comments
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_aioseo_cache
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_wpforms_payments
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_actionscheduler_actions
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_aioseo_posts
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_postmeta
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_posts
+[2023-10-25 20:03:48][notice]Preparing to dump table wpx0_options
+[2023-10-25 20:03:48][notice]Exporting database finished.
+[2023-10-25 20:03:49][notice]Start compressing database
+[2023-10-25 20:03:49][notice]Prepare to zip file. file: www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_db.sql
+[2023-10-25 20:03:49][notice]Adding zip files completed.www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_db.part001.zip, filesize: 282.85 KB
+[2023-10-25 20:03:49][notice]Compressing database completed
+[2023-10-25 20:03:49][notice]Backing up backup_db completed.
+[2023-10-25 20:03:49][notice]Prepare to backup backup_themes files.
+[2023-10-25 20:03:50][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_themes.part001.zip index:500
+[2023-10-25 20:04:34][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_themes.part001.zip success. index:500 file size:12.12 MB
+[2023-10-25 20:04:34][notice]Backing up backup_themes completed.
+[2023-10-25 20:04:34][notice]Prepare to backup backup_plugin files.
+[2023-10-25 20:04:37][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:500
+[2023-10-25 20:05:02][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:500 file size:7.65 MB
+[2023-10-25 20:05:02][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:1000
+[2023-10-25 20:05:20][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:1000 file size:9.29 MB
+[2023-10-25 20:05:20][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:1500
+[2023-10-25 20:05:52][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:1500 file size:11.56 MB
+[2023-10-25 20:05:52][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:2000
+[2023-10-25 20:05:56][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:2000 file size:14.41 MB
+[2023-10-25 20:05:56][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:2500
+[2023-10-25 20:06:00][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:2500 file size:15.19 MB
+[2023-10-25 20:06:00][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:3000
+[2023-10-25 20:06:03][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:3000 file size:16.35 MB
+[2023-10-25 20:06:03][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:3500
+[2023-10-25 20:06:28][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:3500 file size:21.38 MB
+[2023-10-25 20:06:29][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:4000
+[2023-10-25 20:06:39][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:4000 file size:26.39 MB
+[2023-10-25 20:06:39][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:4500
+[2023-10-25 20:06:42][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:4500 file size:28.50 MB
+[2023-10-25 20:06:42][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:5000
+[2023-10-25 20:06:50][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:5000 file size:29.39 MB
+[2023-10-25 20:06:50][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:5500
+[2023-10-25 20:07:03][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:5500 file size:31.98 MB
+[2023-10-25 20:07:03][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip index:6000
+[2023-10-25 20:07:12][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.part001.zip success. index:6000 file size:36.78 MB
+[2023-10-25 20:07:12][notice]Backing up backup_plugin completed.
+[2023-10-25 20:07:12][notice]Prepare to backup backup_uploads files.
+[2023-10-25 20:07:12][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_uploads.part001.zip index:500
+[2023-10-25 20:08:37][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_uploads.part001.zip success. index:500 file size:69.48 MB
+[2023-10-25 20:08:37][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_uploads.part001.zip index:1000
+[2023-10-25 20:09:12][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_uploads.part001.zip success. index:1000 file size:106.72 MB
+[2023-10-25 20:09:13][notice]Backing up backup_uploads completed.
+[2023-10-25 20:09:13][notice]Prepare to backup backup_content files.
+[2023-10-25 20:09:13][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_content.part001.zip index:500
+[2023-10-25 20:09:13][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_content.part001.zip success. index:500 file size:1.90 KB
+[2023-10-25 20:09:13][notice]Backing up backup_content completed.
+[2023-10-25 20:09:13][notice]Prepare to backup backup_core files.
+[2023-10-25 20:09:14][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip index:500
+[2023-10-25 20:09:55][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip success. index:500 file size:856.03 KB
+[2023-10-25 20:09:55][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip index:1000
+[2023-10-25 20:10:34][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip success. index:1000 file size:2.03 MB
+[2023-10-25 20:10:34][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip index:1500
+[2023-10-25 20:11:29][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip success. index:1500 file size:8.36 MB
+[2023-10-25 20:11:29][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip index:2000
+[2023-10-25 20:12:06][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip success. index:2000 file size:10.43 MB
+[2023-10-25 20:12:06][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip index:2500
+[2023-10-25 20:12:50][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip success. index:2500 file size:12.53 MB
+[2023-10-25 20:12:50][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip index:3000
+[2023-10-25 20:12:57][notice]Compressing zip file:www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.part001.zip success. index:3000 file size:13.14 MB
+[2023-10-25 20:12:57][notice]Backing up backup_core completed.
+[2023-10-25 20:12:57][notice]Prepare to backup backup_merge files.
+[2023-10-25 20:12:57][notice]Prepare to zip file. file: www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_db.zip
+[2023-10-25 20:12:57][notice]Adding zip files completed.www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_all.part001.zip, filesize: 283.07 KB
+[2023-10-25 20:12:57][notice]Prepare to zip file. file: www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_themes.zip
+[2023-10-25 20:12:57][notice]Adding zip files completed.www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_all.part001.zip, filesize: 12.32 MB
+[2023-10-25 20:12:57][notice]Prepare to zip file. file: www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_plugin.zip
+[2023-10-25 20:12:58][notice]Adding zip files completed.www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_all.part001.zip, filesize: 47.91 MB
+[2023-10-25 20:12:59][notice]Prepare to zip file. file: www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_uploads.zip
+[2023-10-25 20:13:02][notice]Adding zip files completed.www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_all.part001.zip, filesize: 154.59 MB
+[2023-10-25 20:13:02][notice]Prepare to zip file. file: www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_content.zip
+[2023-10-25 20:13:02][notice]Adding zip files completed.www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_all.part001.zip, filesize: 154.59 MB
+[2023-10-25 20:13:02][notice]Prepare to zip file. file: www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_core.zip
+[2023-10-25 20:13:02][notice]Adding zip files completed.www.imanebentaleb.tech_wpvivid-653974a281974_2023-10-25-20-03_backup_all.part001.zip, filesize: 167.36 MB
+[2023-10-25 20:13:02][notice]Backing up backup_merge completed.
+[2023-10-25 20:13:02][notice]Backup completed.
